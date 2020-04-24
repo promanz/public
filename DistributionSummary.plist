@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>xxx</string>
+                <string>com.sm.iosapp</string>
                 <key>bundle-version</key>
-                <string>1.1.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>掌上配网 pro</string>
             </dict>
         </dict>
     </array>
